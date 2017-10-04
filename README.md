@@ -15,5 +15,6 @@ Fork it, play with it and improve it!
 ## My favorite animals
 
 1. cat
+![cat](cat.jpg)
 1. dog
 1. horse
